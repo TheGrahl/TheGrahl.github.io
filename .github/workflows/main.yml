@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Grahl · Cinderhollow</title>
+<style>
+:root{color-scheme:light dark;--bg:#f6f5f3;--fg:#201d1b;--mut:#6a645f;--acc:#a8431f}
+@media (prefers-color-scheme:dark){:root{--bg:#17130f;--fg:#ece6df;--mut:#a39a91;--acc:#e0875a}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 Georgia,serif;padding:32px max(16px,env(safe-area-inset-left))}
+main{max-width:640px;margin:0 auto}h1{font-size:2rem;margin:0 0 4px}p{margin:12px 0}a{color:var(--acc)}.m{color:var(--mut)}
+</style></head><body><main>
+<h1>The Grahl</h1>
+<p class="m">Game developer</p>
+<h2>Cinderhollow</h2>
+<p>An action roguelike for your phone. Fight down through a shifting crypt, pick boons, beat the bosses and unlock six heroes.</p>
+<p><a href="privacy.html">Privacy policy</a></p>
+<p class="m">Contact: captainperfect97@gmail.com</p>
+</main></body></html>
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cinderhollow Privacy Policy</title>
+<style>
+:root{--bg:#f6f5f3;--fg:#201d1b;--mut:#6a645f;--line:#dcd7d1;--acc:#a8431f;--card:#fff;color-scheme:light}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#17130f;--fg:#ece6df;--mut:#a39a91;--line:#35302a;--acc:#e0875a;--card:#201b16;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#17130f;--fg:#ece6df;--mut:#a39a91;--line:#35302a;--acc:#e0875a;--card:#201b16;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:16px/1.65 Georgia,"Times New Roman",serif;padding-block:32px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:680px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+h1{font-size:2rem;line-height:1.2;margin:0;text-wrap:balance}
+h2{font-size:1.15rem;margin:0 0 6px;text-wrap:balance}
+p{margin:0}
+.meta,.lang{font:600 .78rem/1.4 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--mut)}
+section{display:flex;flex-direction:column;gap:18px}
+.item{padding-top:14px;border-top:1px solid var(--line)}
+.lang{color:var(--acc);border-bottom:2px solid var(--acc);padding-bottom:6px}
+.item a{color:var(--acc)}
+.contact{background:var(--card);border:1px solid var(--line);padding:14px 16px;border-radius:6px;overflow-wrap:anywhere}
+</style>
+<style>html{color-scheme:light dark}body{margin:0}</style></head><body>
+
+<main>
+<header>
+<p class="meta">Last updated 20 October 2026 · Senast uppdaterad 20 oktober 2026</p>
+<h1>Cinderhollow Privacy Policy</h1>
+</header>
+
+<section lang="en">
+<p class="lang">English</p>
+<p>Cinderhollow ("the game") is published by The Grahl ("we"). This policy covers the Cinderhollow app for Android and the web version of the game.</p>
+<div class="item"><h2>What we collect</h2><p>We do not collect, store or sell personal information ourselves. The game has no accounts and no analytics, and it does not send any data to us. The only exception is the optional rewarded ad described under "Ads" below, which is served by Google.</p></div>
+<div class="item"><h2>What stays on your device</h2><p>The game saves your settings (sound, controls), your best floor, your chosen character, your unlocks and your checkpoint on your own device. This data never leaves the device and we cannot see it. Clearing the app's storage or uninstalling the game removes it.</p></div>
+<div class="item"><h2>Permissions and internet</h2><p>The game does not ask for access to your location, contacts, camera, microphone, photos or files. The game itself runs without an internet connection. An internet connection is only used to load the optional rewarded ad.</p></div>
+<div class="item"><h2>Ads</h2><p>The Android app can show an optional rewarded video ad. An ad is only shown if you tap "Second chance · watch ad" after you fall, and you get the second chance when you have watched it. Ads are provided by Google AdMob. Google may collect and use your device's advertising ID, IP address, approximate location and information about how you interact with the ad to show and measure ads and to prevent fraud. Where the law requires it, you are asked for consent before personalised ads are used, and you can change your choice in your device's Google settings. See <a href="https://policies.google.com/privacy">Google's Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites">how Google uses data from apps that use its services</a>. The web version of the game shows no ads.</p></div><div class="item"><h2>Purchases</h2><p>The game has no in-app purchases.</p></div>
+<div class="item"><h2>Children</h2><p>The game is not directed at children under 13, and we do not knowingly collect information from anyone.</p></div>
+<div class="item"><h2>Changes</h2><p>If we change this policy, we will update the date at the top of this page.</p></div>
+<div class="item"><h2>Contact</h2><p class="contact">Questions about this policy: captainperfect97@gmail.com</p></div>
+</section>
+
+<section lang="sv">
+<p class="lang">Svenska</p>
+<p>Cinderhollow ("spelet") ges ut av The Grahl ("vi"). Policyn gäller Cinderhollow-appen för Android och spelets webbversion.</p>
+<div class="item"><h2>Vad vi samlar in</h2><p>Vi samlar inte själva in, lagrar eller säljer personuppgifter. Spelet har inga konton och ingen analys, och det skickar inga uppgifter till oss. Det enda undantaget är den valfria belöningsannonsen som beskrivs under "Reklam" nedan, som visas av Google.</p></div>
+<div class="item"><h2>Vad som stannar på din enhet</h2><p>Spelet sparar dina inställningar (ljud, kontroller), din bästa våning, din valda karaktär, dina upplåsningar och din sparpunkt på din egen enhet. Uppgifterna lämnar aldrig enheten och vi kan inte se dem. Om du rensar appens lagring eller avinstallerar spelet försvinner de.</p></div>
+<div class="item"><h2>Behörigheter och internet</h2><p>Spelet ber inte om åtkomst till din plats, dina kontakter, kamera, mikrofon, bilder eller filer. Själva spelet fungerar utan internetanslutning. Internet används bara för att hämta den valfria belöningsannonsen.</p></div>
+<div class="item"><h2>Reklam</h2><p>Android-appen kan visa en valfri belöningsannons (video). En annons visas bara om du trycker på "Second chance · watch ad" efter att du har fallit, och du får din andra chans när du har sett den. Annonserna levereras av Google AdMob. Google kan samla in och använda enhetens annons-ID, IP-adress, ungefärlig plats och uppgifter om hur du interagerar med annonsen för att visa och mäta annonser och förhindra bedrägeri. Där lagen kräver det frågas du om samtycke innan personanpassade annonser används, och du kan ändra ditt val i enhetens Google-inställningar. Se <a href="https://policies.google.com/privacy">Googles integritetspolicy</a> och <a href="https://policies.google.com/technologies/partner-sites">hur Google använder uppgifter från appar som använder deras tjänster</a>. Webbversionen av spelet visar ingen reklam.</p></div><div class="item"><h2>Köp</h2><p>Spelet har inga köp i appen.</p></div>
+<div class="item"><h2>Barn</h2><p>Spelet riktar sig inte till barn under 13 år, och vi samlar inte medvetet in uppgifter från någon.</p></div>
+<div class="item"><h2>Ändringar</h2><p>Om vi ändrar policyn uppdaterar vi datumet högst upp på sidan.</p></div>
+<div class="item"><h2>Kontakt</h2><p class="contact">Frågor om policyn: captainperfect97@gmail.com</p></div>
+</section>
+</main>
+google.com, pub-6329496834584401, DIRECT, f08c47fec0942fa0
+
+</body></html>
